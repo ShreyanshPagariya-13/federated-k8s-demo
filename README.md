@@ -41,7 +41,7 @@ Privacy-Preserving Federated Learning system using **K3s**, **TensorFlow**, and 
 🏁 Getting Started
 1. Clone the repo
 
-git clone https://github.com/sagnik3788/federated-k8s-demo.git
+git clone https://github.com/ShreyanshPagariya-13/federated-k8s.git
 cd federated-k8s-demo
 
 2. Set up virtual environment
@@ -143,9 +143,6 @@ Make sure large files are not pushed to GitHub.
 
     🌐 HTTPS, JWT
 
-📜 License
-
-MIT © Sagnik Das
 🙌 Acknowledgements
 
     Flower
